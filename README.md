@@ -1,1 +1,2 @@
 # Vrinda-Sales-Report
+Vrinda Store sales report analysis involves examining saes data to understand trends, performance, and oppourtunities in India. Utilizing data analysis tools like Excel, and PowerBI was used in this analysis to help create visually appealing dashboards to present sales insights effectively. Analyzing Vrinda Store sales data helps the company in decision-making and also improve sales strategies and drive business growth in the Indian market.
