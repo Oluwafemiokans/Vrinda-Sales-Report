@@ -13,7 +13,6 @@ The dataset used for this analysis is the sales data files containing informatio
 
 ## Tools 
 
-- Excel
 - SQL
 - PowerBI
 
@@ -24,6 +23,7 @@ In the initial data preparation phase, we performed the following
 1. Data Loading and Inspection
 2. Handling missing values
 3. Data Cleaning and Formatting
+4. Adding new column
 
 ## Business Questions
 
