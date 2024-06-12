@@ -27,13 +27,13 @@ In the initial data preparation phase, we performed the following
 
 ## Business Questions
 
-1. Top 5 Order by Ship-City
+1. What are the top orders by Ship-City
 
-2. Total Revenue by Channel
+2. What are the revenue by Channel
 
-3. Total Order by Gender
+3. Return the Total Order by Gender
 
-4. Total Order by Status
+4. Return the Total Order by Status
 
-5. Total Revenue
+5. What is the Total Revenue of the Company
 
