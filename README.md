@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Vrinda Store sales report analysis involves examining saes data to understand trends, performance, and oppourtunities in India. Utilizing data analysis tools like Excel, and PowerBI was used in this analysis to help create visually appealing dashboards to present sales insights effectively. Analyzing Vrinda Store sales data helps the company in decision-making and also improve sales strategies and drive business growth in the Indian market.
+Vrinda Store sales report analysis involves examining sales data to understand trends, performance, and oppourtunities in India. Utilizing data analysis tools like Excel, and PowerBI was used in this analysis to help create visually appealing dashboards to present sales insights effectively. Analyzing Vrinda Store sales data helps the company in decision-making and also improve sales strategies and drive business growth in the Indian market.
 
 ![Vrinda Project](https://github.com/Oluwafemiokans/Vrinda-Sales-Report/assets/159950899/47dca775-9a27-423b-a0db-fca4b8f1c609)
 
