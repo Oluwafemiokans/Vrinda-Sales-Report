@@ -37,3 +37,6 @@ In the initial data preparation phase, we performed the following
 
 5. What is the Total Revenue of the Company
 
+## Recommendations
+
+1. I recommend exploring customer preferences and sales trends to optimize inventory management and enhance customer satisfaction.
